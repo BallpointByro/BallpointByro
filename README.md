@@ -7,3 +7,8 @@ I am Byro. I am the current lead programmer for [@HolmfirthHighRobotics](https:/
 - Java (FTC/Qualcomm Package) 
 - GDScript
 
+### Currently Reading: How AI thinks by Nigel Toon
+Not the best book, but it explains key concepts and the buildup to AI very well!
+### Currently Playing: No Man's Sky & Aniimo
+Nothing to be said there. Just good. Plain old good.
+(OMGOMG OGMGOMGOGMOGMG I LOVE NMS!!!!!)
