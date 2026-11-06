@@ -10,6 +10,10 @@ It all started with an addiction to [scratch](https://scratch.mit.edu/users/Ball
 - GDScript
 - Hoping to learn more of the C Family in the future.
 
+### Want to contact me?
+I have a discord server, made just for things like this!
+Join it here: https://discord.gg/YRWUYsEVnE
+
 ## About me
 I am the lead programmer for my robotics club (also the president). I work on CachyOS Cosmic, using Godot 4, Zed, and Aseprite. I have a *mild* [spotify](https://open.spotify.com/user/31jfslh7ya64j7bzdukbfpytdnby?si=f633a7f5baf14cfe) addiction. 
 
