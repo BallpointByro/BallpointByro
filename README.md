@@ -22,3 +22,5 @@ Not the best book, but it explains key concepts and the buildup to AI very well!
 ### Currently Playing: No Man's Sky & Aniimo
 Nothing to be said there. Just good. Plain old good.
 (OMGOMG OGMGOMGOGMOGMG I LOVE NMS!!!!!)
+
+https://www.codetriage.com/godotengine/godot/badges/users.svg
