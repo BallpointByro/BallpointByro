@@ -23,4 +23,5 @@ Not the best book, but it explains key concepts and the buildup to AI very well!
 Nothing to be said there. Just good. Plain old good.
 (OMGOMG OGMGOMGOGMOGMG I LOVE NMS!!!!!)
 
-https://www.codetriage.com/godotengine/godot/badges/users.svg
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
