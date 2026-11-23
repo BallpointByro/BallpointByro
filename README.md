@@ -1,4 +1,4 @@
-<img src="https://githubusercontent.com" width="200" />
+<img src="assets/Bear.gif" width="200" />
 Jeremy. He is classy.
 
 ## Hi there 👋
