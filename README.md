@@ -1,4 +1,4 @@
-<img src="Screenshot_2026-11-23_12-13-33.png" />
+<img src="assets/Bear.gif" />
 Jeremy. He is classy.
 
 ## Hi there 👋
