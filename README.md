@@ -1,4 +1,4 @@
-![Jeremy](assets/Bear.gif)
+<img src="https://githubusercontent.com" width="200" />
 Jeremy. He is classy.
 
 ## Hi there 👋
