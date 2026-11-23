@@ -9,6 +9,7 @@ It all started with an addiction to [scratch](https://scratch.mit.edu/users/Ball
 - Java (FTC/Qualcomm Package) 
 - GDScript
 - Hoping to learn more of the C Family in the future.
+- Rust (I have it installed and am looking into using it for [Doa](https://github.com/BallpointByro/Doa)
 
 ### Want to contact me?
 I have a discord server, made just for things like this!
